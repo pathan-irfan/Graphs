@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/http//pathan-irfan.github.io/Graphs/static/js/main.669f3b03.js",
-    "index.html": "/http//pathan-irfan.github.io/Graphs/index.html",
-    "main.669f3b03.js.map": "/http//pathan-irfan.github.io/Graphs/static/js/main.669f3b03.js.map"
+    "main.js": "/Graphs/static/js/main.669f3b03.js",
+    "index.html": "/Graphs/index.html",
+    "main.669f3b03.js.map": "/Graphs/static/js/main.669f3b03.js.map"
   },
   "entrypoints": [
     "static/js/main.669f3b03.js"
