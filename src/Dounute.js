@@ -8,7 +8,8 @@ const data = {
     'java script',
     'react js',
     'html',
-    'css'
+    'css',
+    'node js '
   ],
   datasets: [{
     label: 'My First Dataset',
